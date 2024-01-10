@@ -389,3 +389,12 @@ footer {
     justify-content: space-between;
     margin: 0 100px;
 }
+.text-box1 i, .text-box2 i{
+    margin-right: 6px;
+}
+.text-box1, .text-box1 i, .tex-box1 p{
+    margin-bottom: 8px;
+}
+.footer-img img {
+    margin-right: 8px;
+}

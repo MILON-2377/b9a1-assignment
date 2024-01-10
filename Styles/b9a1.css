@@ -70,10 +70,147 @@ header {
     width: 1320px;
     margin: 50px 140px;
     background-image: url("/pictures/Vectorrr.png");
+    margin-top: 90px;
 }
 .wlc-title{
     color: #FFF;
     font-family: Merriweather;
     font-size: 64px;
     font-weight: 900;
+    position: relative;
+    top: 126px;
+    left: 126px;
+}
+.wlc-snd-title {
+    position: relative;
+    top: 126px;
+    left: 126px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 18px;
+}
+
+.snd-container button {
+    border: none;
+    margin-left: 38px;
+    margin-top: 33px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #070211;
+    color: white;
+    font-size: 18px;
+}
+
+.snd-container img {
+    height: 450px;
+    position: relative;
+    top: -170px;
+    left: 880px;
+}
+
+/*third main container */
+.third-container {
+    width: 1320px;
+    height: 600px;
+    background-color: papayawhip;
+    margin: 50px 140px;
+    border-radius:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.title-box span {
+    color: #F00;
+}
+
+.title-box button {
+    background-color: #F00;;
+    margin-top: 40px;
+    text-transform: uppercase;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+
+/* forth container box */
+
+.forth-container {
+    width: 1320px;
+    height: 400px;
+    background-color: rgb(241, 238, 232);
+    margin: 50px 140px;
+    border-radius:10px;
+    display: flex;
+}
+
+.circle-box {
+    height: 360px;
+    width: 360px;
+    border: 15px solid red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle-box img {
+    height: 300px;
+}
+
+.new-best{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+}
+.cmg-sn {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.box1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.discrip {
+    text-align: center;
+    text-wrap: 1000;
+}
+
+.box3 {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.year {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.box3 img {
+    margin-top: 40px;
 }

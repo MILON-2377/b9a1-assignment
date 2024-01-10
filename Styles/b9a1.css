@@ -223,3 +223,51 @@ header {
     width: 1320px;
     height: 400px;
 }
+/*container 5 */
+.span{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+.container-5 span {
+    color: #F00;
+}
+.container-5{
+    width: 1320px;
+    text-align: center;
+    margin: 50px 140px;
+
+}
+.container-five-item {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.img1 img{
+    height: 433px;
+}
+.rectangle1{
+    width: 429px;
+    height: 433px;
+    margin-right: 64px;
+}
+.cirle-img{
+   height: 230px;
+   width: 230px;
+   /* border: 10px solid rebeccapurple; */
+   border-radius: 50%;
+   background-image: url("/pictures/Group\ 44\ -\ Copy.png");
+   background-repeat: none;
+   background-size: 220px 220px;
+   /* height: 150px; */
+   position: relative;
+   top: 170px;
+   left: 160px;
+}

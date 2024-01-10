@@ -1,0 +1,79 @@
+/*Header banner Styles*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url("../pictures/Banner\ Image\ -\ Copy.png");
+    background-size: cover;
+    background-repeat: none;
+    height: 600px;
+    width: 1320px;
+    margin: 50px 140px;
+    color: rgb(241, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.9;
+}
+.Happy-new {
+    text-align: center;
+    font-size: 32px;    
+    font-weight: 400;
+}
+.banner-title {
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
+.clebration {
+    text-align: center;
+}
+
+/*main contents*/
+.discnt{
+    font-size: 88px;
+    font-weight: 700;
+    color: #F00;
+}
+
+.discnt-title {
+    color: #F00;
+    font-size: 22px;
+    font-weight: 480px;
+    margin-top: 26px;
+}
+
+.discnt-snd-title {
+    color: #070211;
+    font-size: 41px;
+    font-weight: 700;
+}
+
+.img-container {
+    width: 802.9px;
+    height: 500px;
+}
+.off-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Second banner in main */
+
+.snd-container {
+    height: 600px;
+    width: 1320px;
+    margin: 50px 140px;
+    background-image: url("/pictures/Vectorrr.png");
+}
+.wlc-title{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+}

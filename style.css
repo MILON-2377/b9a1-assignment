@@ -6,7 +6,7 @@
 }
 
 header {
-    background-image: url("../pictures/Banner\ Image\ -\ Copy.png");
+    background-image: url("../picture/Banner\ Image\ -\ Copy.png");
     background-size: cover;
     background-repeat: none;
     height: 600px;
@@ -69,7 +69,7 @@ header {
     height: 600px;
     width: 1320px;
     margin: 50px 140px;
-    background-image: url("/pictures/Vectorrr.png");
+    background-image: url("/picture/Vectorrr.png");
     margin-top: 90px;
 }
 .wlc-title{
@@ -264,7 +264,7 @@ header {
    width: 230px;
    /* border: 10px solid rebeccapurple; */
    border-radius: 50%;
-   background-image: url("/pictures/Group\ 44\ -\ Copy.png");
+   background-image: url("/picture/Group\ 44\ -\ Copy.png");
    background-repeat: none;
    background-size: 220px 220px;
    /* height: 150px; */

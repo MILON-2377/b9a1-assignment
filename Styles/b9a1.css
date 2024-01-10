@@ -363,3 +363,29 @@ input[type="submit"]{
     margin-top: 20px;
     margin-bottom: 10px;
 }
+/*footer section */
+footer {
+    width: 1600px;
+    height: 500px;
+    background-color:#070211;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+.fot-container1{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px;
+}
+.fot-container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fot-container3 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px;
+}

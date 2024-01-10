@@ -256,7 +256,7 @@ header {
 .rectangle1{
     width: 429px;
     height: 433px;
-    margin-right: 64px;
+    margin-left: 140px;
 }
 .cirle-img{
    height: 230px;
@@ -269,5 +269,12 @@ header {
    /* height: 150px; */
    position: relative;
    top: 170px;
-   left: 160px;
+   left: 270px;
+}
+.img-box1 {
+    margin-top: 50px;
+}
+.x-img {
+    position: relative;
+    top: 201px;
 }
